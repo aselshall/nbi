@@ -1,4 +1,4 @@
-# Nature-based infrastructure for enhancing climate resiliency of groundwater resources in South Florida
+# [Nature-based infrastructure for enhancing climate resiliency of groundwater resources in South Florida](https://aselshall.github.io/nbi)
 
 This project aligns with the call for proposal "Addressing Climate Resiliency through Nature Based Infrastructure" by addressing the impacts of climate change on groundwater resources and promoting resilience in South Florida. The project aims to utilize an integrated modeling approach to evaluate and implement nature-based infrastructure features (NBIFs) that mitigate the effects of climate change on groundwater resources.  
    
